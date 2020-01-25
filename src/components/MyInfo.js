@@ -7,6 +7,7 @@ function MyInfo() {
 
 return(
     <div>
+        <p>This is Test Paragraph</p>
         <NavBar/>
         <Header/>
         <MyFooter />
